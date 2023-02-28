@@ -1,5 +1,74 @@
-[{
-    "point": "How to Code",
-    "done": false,
-    "inProgress": true
-}]
+[
+    {
+        "point": "Understand the Basics",
+        "done": true,
+        "inProgress": false,
+        "updateAt": "2023-02-28T23:12:13.642Z"
+    },
+    {
+        "point": "What is Software Architecture",
+        "done": true,
+        "inProgress": false,
+        "updateAt": "2023-02-28T23:12:13.642Z"
+    },
+    {
+        "point": "What is a Software Architect",
+        "done": true,
+        "inProgress": false,
+        "updateAt": "2023-02-28T23:12:13.642Z"
+    },
+    {
+        "point": "Design and Architecture",
+        "done": true,
+        "inProgress": false,
+        "updateAt": "2023-02-28T23:12:13.642Z"
+    },
+    {
+        "point": "Decision Making",
+        "done": true,
+        "inProgress": false,
+        "updateAt": "2023-02-28T23:12:13.642Z"
+    },
+    {
+        "point": "Simplifying things",
+        "done": true,
+        "inProgress": false,
+        "updateAt": "2023-02-28T23:12:13.642Z"
+    },
+    {
+        "point": "How to Code",
+        "done": true,
+        "inProgress": false,
+        "updateAt": "2023-02-28T23:12:13.642Z"
+    },
+    {
+        "point": "Documentation",
+        "done": true,
+        "inProgress": false,
+        "updateAt": "2023-02-28T23:12:13.642Z"
+    },
+    {
+        "point": "Levels of Architecture",
+        "done": true,
+        "inProgress": false,
+        "updateAt": "2023-02-28T23:12:13.642Z"
+    },
+    {
+        "point": "Application Architecture",
+        "done": true,
+        "inProgress": false,
+        "updateAt": "2023-02-28T23:12:13.642Z"
+    },
+    {
+        "point": "Solution Architecture",
+        "done": true,
+        "inProgress": false,
+        "updateAt": "2023-02-28T23:12:13.642Z"
+    },
+    {
+        "point": "Enterprise Architecture",
+        "done": true,
+        "inProgress": false,
+        "updateAt": "2023-02-28T23:12:13.642Z"
+    }
+]
