@@ -1,5 +1,5 @@
 [{
     "point": "How to Code",
-    "done": true,
-    "inProgress": false
+    "done": false,
+    "inProgress": true
 }]
